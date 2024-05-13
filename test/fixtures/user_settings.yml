@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  time_limit_per_website: 1
+  website_category: MyString
+
+two:
+  user: two
+  time_limit_per_website: 1
+  website_category: MyString
